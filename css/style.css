@@ -15,7 +15,7 @@
 }
 
 .card {
-   padding: 10px;
+   padding: 20 px;
    border: 1px solid #ccc;
    display: grid;
    gap: 10px;
